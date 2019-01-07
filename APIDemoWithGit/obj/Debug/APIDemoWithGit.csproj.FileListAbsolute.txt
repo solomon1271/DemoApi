@@ -84,3 +84,13 @@ C:\Application\APIDemoWithGit\APIDemoWithGit\obj\Debug\APIDemoWithGit.csproj.Cor
 C:\Application\APIDemoWithGit\APIDemoWithGit\obj\Debug\APIDemoWithGit.csproj.CopyComplete
 C:\Application\APIDemoWithGit\APIDemoWithGit\obj\Debug\APIDemoWithGit.dll
 C:\Application\APIDemoWithGit\APIDemoWithGit\obj\Debug\APIDemoWithGit.pdb
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EmployeeDataAccess.dll
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EntityFramework.dll
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EntityFramework.SqlServer.dll
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\System.Web.Cors.dll
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\System.Web.Http.Cors.dll
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EmployeeDataAccess.pdb
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EmployeeDataAccess.dll.config
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EntityFramework.xml
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\EntityFramework.SqlServer.xml
+C:\Application\APIDemoWithGit\APIDemoWithGit\bin\System.Web.Http.Cors.xml
